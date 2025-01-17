@@ -22,13 +22,12 @@ I am a Theoretical Physicist and Data Scientist with expertise in String Theory 
 
 - Conducted advanced research on Type IIB flux compactifications, leading to the publication of 4 papers in the Journal of High Energy Physics (JHEP), published by Springer. \href{https://link.springer.com/search?dc.creator=Matteo%20Licheri}{\textbf{\textcolor{black}{[Complete List]}}}
 - Demonstrated strong communication skills by presenting findings at international conferences and workshops, including the Workshop on Multifield Cosmology at the Simons Center for Geometry and Physics, Stony Brook, USA, and serving as the corresponding author for one of the published papers.
-- Curated the discussion for the publication of one of our papers.
-
+- 
 ## Skills
 
-- **Programming Languages**: Python, R, Julia
-- **Tools and Frameworks**: TensorFlow, Scikit-learn, Matplotlib, Seaborn, Mathematica
-- **Research Areas**: String Theory, Cosmology, Quantum Field Theory, Statistical Mechanics
+- **Programming Languages**: Python (Intermediate), Mathematica(Intermediate), Julia (Beginner), C/C++ (Beginner), SQL (Beginner)
+- **Tools and Frameworks**: TensorFlow, Scikit-learn, Matplotlib, Seaborn, Pandas
+- **Research Areas**: String Theory, Cosmology, Quantum Field Theory
 
 ## Contact
 
