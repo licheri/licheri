@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a Theoretical Physicist and Data Scientist with expertise in String Theory and Cosmology. I have a passion for solving complex problems using data-driven approaches and have published several papers in top-tier journals. My research includes string compactification, moduli stabilization, and string phenomenology related to inflation, dark energy, and dark matter.
+I am a Theoretical Physicist with expertise in String Theory and Cosmology. I have a passion for solving complex problems using data-driven approaches and have published several papers in top-tier journals. My research includes string compactification, moduli stabilization, and string phenomenology related to inflation, dark energy, and dark matter.
 
 ## Education
 
